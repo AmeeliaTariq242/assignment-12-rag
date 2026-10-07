@@ -1,0 +1,14 @@
+streamlit
+python-dotenv
+langchain-groq
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+langchain-chroma
+chromadb
+sentence-transformers
+transformers
+torch
+pypdf
+numpy
+watchdog
